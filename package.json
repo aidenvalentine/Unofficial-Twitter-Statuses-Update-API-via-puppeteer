@@ -1,0 +1,21 @@
+{
+  "name": "unofficial-twitter-statuses-update-api-via-puppeteer",
+  "version": "1.0.0",
+  "description": "Posts statuses to your Twitter/X.com account without the need to use the official API. This will bypass the need for a paid developer account.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter",
+    "x.com",
+    "x",
+    "aiden",
+    "valentine",
+    "puppeteer",
+    "xxxmultimedia",
+    "API"
+  ],
+  "author": "Aiden Valentine <aiden@xxxmultimedia.com>",
+  "license": "ISC"
+}
